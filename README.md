@@ -18,9 +18,12 @@
 
 > ### I have also been playing Dota 2 since 2015 (5000 hours at least xdxd). The maximum rating is 5.7k (titan). This is how I sometimes relax after a busy day in the world of programming.
 
-<div align="center">
-    <img height="220px" src="https://i.imgur.com/3kFqZ7B.png">
-    <img height="220px" src="https://i.imgur.com/Vhg1Yfk.png">
+<div>
+    <img src="titan.png">
+</div
+	
+<div>
+    <img src="mmr.png">
 </div>
 
 <a href="https://github.com/x4cusx4cus/x4cusx4cus">
